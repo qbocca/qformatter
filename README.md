@@ -4,7 +4,7 @@ Add-on function for the r3PG package.
 ---
 Add on to help prep site and species dataframes for the r3PG (https://github.com/trotsiuk/r3PG/tree/master) package. Add-on is a simple R function that makes sure that CSV data is properly formatted to accepted by the run_3PG function in Troksiuk's orginal package. 
 
-This function was built after having issues with the run_3PG function not accepting dataframes that were formatted mannually in external software (such as Excel) and imported to the R enviroment via a csv file.
+This function was built after having issues with the run_3PG function not accepting dataframes that were formatted manually in external software (such as Excel) and imported to the R enviroment via a csv file.
 
 ### Usage.
 ```
